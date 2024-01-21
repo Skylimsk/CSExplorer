@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # csexplorer
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CSExplorer
+>>>>>>> 16f989b8353ed80e36e92ca180ffbb22d28067d6
